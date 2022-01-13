@@ -36,6 +36,6 @@ const mahfouz = {
 };
 ```
 
- <em><b>I have a <a href="https://youtube.com/reachstart">YouTube Channel</a> teaching programming in videos.</b> 😊</em>
+ <em><b>I have a <a target="_blank" href="https://youtube.com/reachstar">YouTube Channel</a> teaching programming in videos.</b> 😊</em>
 
 
