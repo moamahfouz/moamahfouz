@@ -9,7 +9,7 @@
 
 ### 📫 have a project?
 
-Let's sculled a meeting to discuss your needs.
+Let's schedule a meeting to discuss your needs.
 
 <a href="mailto: contact@moamahfouz.com">Send me an email</a>
 
