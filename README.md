@@ -9,7 +9,7 @@
 
 ### 📫 Contact
 
-<a href="mailto: contact@moamahfouz.com">Send me an email</a>
+<a href="mailto:moa.mahfouz@gmail.com">Send me an email</a>
 
 
 ### 👇 A little more about me...  
