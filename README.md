@@ -7,9 +7,7 @@
 [![Linkedin: moamahfouz](https://img.shields.io/badge/-moamahfouz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moamahfouz/)](https://www.linkedin.com/in/moamahfouz/)
 
 
-### 📫 have a project?
-
-Let's schedule a meeting to discuss your needs.
+### 📫 Contact
 
 <a href="mailto: contact@moamahfouz.com">Send me an email</a>
 
