@@ -3,7 +3,6 @@
 <p><em>Full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/moamahfouz?label=Follow)](https://twitter.com/intent/follow?screen_name=moamahfouz)
 [![Linkedin: moamahfouz](https://img.shields.io/badge/-moamahfouz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moamahfouz/)](https://www.linkedin.com/in/moamahfouz/)
 
 
