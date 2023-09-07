@@ -19,7 +19,7 @@ const mahfouz = {
     code: ["PHP", "Javascript", "Python", "Java",],
     askMeAbout: ["web dev", "tech", "app dev", "youtube"],
     technologies: {
-        backEnd: {
+        JS: {
             js: ["Node", "React", "Express", "Vuejs"],
         },
         mobileApp: {
