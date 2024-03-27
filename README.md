@@ -33,6 +33,14 @@ const mahfouz = {
 };
 ```
 
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,regex,bots,docker,git,graphql,jquery,js&theme=dark)](# "php,laravel,mysql,regex,telegram_bots,docker,git,graphql,jquery,js")
+
+
+<img src="https://imgur.com/rilHVxA.png"/>
+
+
  
 
 
