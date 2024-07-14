@@ -19,6 +19,10 @@ const mahfouz = {
     code: ["PHP", "Javascript", "Python", "Java",],
     askMeAbout: ["web dev", "tech", "app dev", "youtube"],
     technologies: {
+        PHP: {
+            php: ["Laravel", "blade", "spatie"],
+        },
+
         JS: {
             js: ["Node", "React", "Express", "Vuejs"],
         },
