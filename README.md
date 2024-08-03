@@ -22,13 +22,9 @@ const mahfouz = {
         PHP: {
             php: ["Laravel", "blade", "spatie"],
         },
-
         JS: {
             js: ["Node", "React", "Express", "Vuejs"],
-        },
-        mobileApp: {
-            cross: ["ReactNative"]
-        },
+        },      
         databases: ["mongo", "MySql", "sqlite"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
