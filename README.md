@@ -28,7 +28,7 @@ const mahfouz = {
         databases: ["mongo", "MySql", "sqlite"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Ios Mobile App Development",
+    currentFocus: "Nodejs & react",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
