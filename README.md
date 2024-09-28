@@ -3,8 +3,6 @@
 <p><em>Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: moamahfouz](https://img.shields.io/badge/-moamahfouz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moamahfouz/)](https://www.linkedin.com/in/moamahfouz/)
-
 
 ### 📫 Contact
 
