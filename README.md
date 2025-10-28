@@ -12,10 +12,9 @@
 ### 👇 A little more about me...  
 
 ```javascript
-const mahfouz = {
-    pronouns: "He" | "Him",
+const mahfouz = {    
     code: ["PHP", "Javascript", "Python", "NodeJs"],
-    askMeAbout: ["web dev", "tech", "app dev", "youtube"],
+    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         PHP: {
             php: ["Laravel", "blade", "spatie"],
@@ -26,7 +25,7 @@ const mahfouz = {
         databases: ["mongo", "MySql", "sqlite"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Nodejs & react",
+    currentFocus: "Nodejs & Laravel",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
