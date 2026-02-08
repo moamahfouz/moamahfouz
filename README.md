@@ -1,12 +1,5 @@
-<h2> Hi 👋 I'm Mohamed Mahfouz </h2>
+<h2> Hi 👋 I'm Mohamed Mahfouz <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-
-### 📫 Contact
-
-<a href="mailto:moa.mahfouz@gmail.com">Send me an email</a>
 
 
 ### 👇 A little more about me...  
@@ -29,6 +22,11 @@ const mahfouz = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+
+
+### 📫 Contact
+
+<a href="mailto:moa.mahfouz@gmail.com">Send me an email</a>
 
 
 ## Skills
